@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Iniciante`**
 
-Olá! Meu nome é Guilherme Esteves, tenho 20 anos e sou natural de Ribeirão Preto - São Paulo, Brasil. Sou formado no ensino médio integrado ao curso técnico em Informática pelo Senac Ribeirão Preto e, atualmente, curso Ciência da Computação no Centro Universitário Barão de Mauá (CBM).
+Olá! Meu nome é Guilherme Esteves, tenho 20 anos e sou natural de São Paulo, Brasil. Sou formado no ensino médio integrado ao curso técnico em Informática pelo Senac Ribeirão Preto e, atualmente, curso Ciência da Computação no Centro Universitário Barão de Mauá (CBM).
 
-Desde criança, tenho grande interesse e dedicação à tecnologia, buscando me especializar e atuar na área, com foco em desenvolvimento web, criação e implementação de aplicações e serviços, além de gestão e organização de projetos. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para soluções inovadoras e eficientes.
+Desde criança, tenho grande interesse e dedicação à tecnologia, buscando me especializar e atuar na área, com foco em desenvolvimento web, criação e implementação de aplicações, além de gestão e organização de projetos. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para soluções inovadoras e eficientes.
 
 
 <p align="left">
@@ -20,6 +20,25 @@ Desde criança, tenho grande interesse e dedicação à tecnologia, buscando me 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/gestevees?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://instagram.com/guiestevees">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    <a href="mailto:estevesg988@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Correio Eletrônico" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    <a href="https://discordapp.com/users/575478423426957336">
+        <img 
+            alt="Discord" 
+            title="ID Discord" 
+            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
 </p>
