@@ -22,12 +22,6 @@ Desde criança, tenho grande interesse e dedicação à tecnologia, buscando me 
             src="https://custom-icon-badges.demolab.com/github/followers/gestevees?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://instagram.com/guiestevees">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
     <a href="mailto:estevesg988@gmail.com">
         <img 
             alt="E-mail" 
