@@ -6,7 +6,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Olá! Meu nome é Guilherme Esteves, tenho 21 anos e sou natural de São Paulo, Brasil. Sou formado no ensino médio integrado ao curso técnico em Informática pelo Senac Ribeirão Preto e, atualmente, curso Ciência da Computação 7° Semestre no Centro Universitário Barão de Mauá (CBM).
+Olá! Meu nome é Guilherme Esteves, tenho 21 anos e sou natural de Ribeirão Preto - São Paulo, Brasil. Sou formado no ensino médio integrado ao curso técnico em Informática pelo Senac Ribeirão Preto e, atualmente, curso Ciência da Computação 7° Semestre no Centro Universitário Barão de Mauá (CBM).
 
 Desde criança, tenho grande interesse e dedicação à tecnologia, buscando me especializar e atuar na área, com foco em desenvolvimento web, criação e implementação de aplicações, além de gestão e organização de projetos. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para soluções inovadoras e eficientes.
 
