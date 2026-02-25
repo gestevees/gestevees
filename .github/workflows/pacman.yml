@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
@@ -13,11 +13,13 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Pacman Graph
-        uses: maurodesouz/snk@main
+      - name: Generate Snake Animation (Tokyo Night)
+        uses: Platane/snk@v3
         with:
           github_user_name: gestevees
-          output: dist
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=7aa2f7&color_dots=#2e3c64,#3b4261,#565f89,#7aa2f7,#bb9af7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=7aa2f7&color_dots=#1a1b27,#2e3c64,#3b4261,#7aa2f7,#bb9af7
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
