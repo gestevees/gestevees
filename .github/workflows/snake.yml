@@ -13,13 +13,13 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Snake Animation (Tokyo Night)
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: gestevees
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=7aa2f7&color_dots=#2e3c64,#3b4261,#565f89,#7aa2f7,#bb9af7
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=7aa2f7&color_dots=#1a1b27,#2e3c64,#3b4261,#7aa2f7,#bb9af7
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
