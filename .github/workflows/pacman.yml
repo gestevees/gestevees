@@ -13,13 +13,11 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Pacman Contribution Graph
-        uses: Platane/snk@v3
+      - name: Generate Pacman Graph
+        uses: maurodesouz/snk@main
         with:
           github_user_name: gestevees
-          outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark
+          output: dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
