@@ -27,6 +27,8 @@ Desde criança, tenho grande interesse e dedicação à tecnologia, buscando me 
 &nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" height="36"/>
+&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36"/>
